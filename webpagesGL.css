@@ -1,19 +1,22 @@
 /*
- *Name: [First Last]
- *UnityID: [unityID]
- *Date: [Date Completed]
+ *Name: [Madison Martin]
+ *UnityID: [memart22@ncsu.edu]
+ *Date: [2/12/2025]
  *Assignment: [Assignment Name]
  *Description: [Assignment Description]
  */
  
 p {
-    property: value;
+    font-family: Times;
+    font-size:16px;
+    color:aqua;
 }
 
-.class {
-    property: value;
+.table-border {
+    border: 1px solid #DECAFF;
 }
 
-#id {
-    property:value;
+#photo-resize {
+    max-width:250px;
+    max-height: 300px;
 }
